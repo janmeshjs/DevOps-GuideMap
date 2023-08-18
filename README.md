@@ -1,6 +1,6 @@
-# DevOps Resource Hub
+# DevOps GuideMap
 
-Welcome to the DevOps Resource Hub GitHub repository! Here, you'll find a collection of essential resources, guides, and materials related to DevOps and its associated topics. Whether you're a seasoned practitioner or a newcomer to the world of DevOps, this repository aims to provide you with valuable insights and knowledge to enhance your skills and understanding.
+Welcome to the DevOps GuideMap repository! Here, you'll find a collection of essential resources, guides, and materials related to DevOps and its associated topics. Whether you're a seasoned practitioner or a newcomer to the world of DevOps, this repository aims to provide you with valuable insights and knowledge to enhance your skills and understanding.
 
 ## Table of Contents
 
