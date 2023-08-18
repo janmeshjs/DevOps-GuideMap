@@ -43,6 +43,6 @@ Contribute to the DevOps community by sharing your knowledge. If you have valuab
 
 ---
 
-Your contributions are valuable! If you have any ideas to improve this repository or want to report an issue, please [open an issue](link-to-issue-tracker).
+Your contributions are valuable! If you have any ideas to improve this repository or want to report an issue, please [open an issue]([link-to-issue-tracker](https://github.com/janmeshjs/DevOps-GuideMap/issues)https://github.com/janmeshjs/DevOps-GuideMap/issues).
 
 Happy learning and exploring the world of DevOps!
