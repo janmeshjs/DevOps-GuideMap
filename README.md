@@ -41,12 +41,8 @@ Ready to take your DevOps journey to the next level? Explore advanced resources,
 
 Contribute to the DevOps community by sharing your knowledge. If you have valuable resources, guides, or insights to add, feel free to submit pull requests. Together, we can make this repository even more comprehensive and helpful.
 
-## License
-
-This repository is licensed under [Your License Name](link-to-license). Make sure to review and respect the terms of the license when using or contributing to the materials.
-
 ---
 
-Your feedback and suggestions are valuable! If you have any ideas to improve this repository or want to report an issue, please [open an issue](link-to-issue-tracker).
+Your contributions are valuable! If you have any ideas to improve this repository or want to report an issue, please [open an issue](link-to-issue-tracker).
 
 Happy learning and exploring the world of DevOps!
