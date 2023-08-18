@@ -5,7 +5,7 @@ Welcome to the DevOps GuideMap repository! Here, you'll find a collection of ess
 ## Table of Contents
 
 - [Introduction to DevOps](#introduction-to-devops)
-- [Getting Started](#getting-started)
+- [GuideMap](#GuideMap)
 - [Best Practices](#best-practices)
 - [Tools and Technologies](#tools-and-technologies)
 - [Case Studies](#case-studies)
@@ -17,9 +17,9 @@ Welcome to the DevOps GuideMap repository! Here, you'll find a collection of ess
 
 Gain a foundational understanding of DevOps, its principles, and its significance in modern software development.
 
-## Getting Started
+## GuideMap
 
-Explore beginner-friendly resources that help you dive into the world of DevOps. Find tutorials, articles, and videos that introduce key concepts and terminology.
+![Image Alt Text](DevOpsGuidemap.drawio.png)
 
 ## Best Practices
 
