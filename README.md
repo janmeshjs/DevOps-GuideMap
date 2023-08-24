@@ -29,6 +29,39 @@ Discover industry-proven best practices for implementing DevOps methodologies ef
 
 This section provides an overview of the essential tools and technologies used in DevOps practices. From version control to containerization and automation, find resources to master these technologies.
 
+Version Control:
+
+Git: A distributed version control system used for tracking changes in code and collaborating with others.
+Resources: Git Documentation, Pro Git Book
+Continuous Integration (CI) and Continuous Deployment (CD):
+
+Jenkins: An open-source automation server for building, testing, and deploying code.
+Travis CI: A cloud-based CI service that automates testing and deployment.
+CircleCI: Another cloud-based CI/CD platform with a focus on speed and simplicity.
+Resources: Jenkins Documentation, Travis CI Documentation, CircleCI Documentation
+Configuration Management:
+
+Ansible: An automation tool for managing configuration and provisioning of servers.
+Puppet: A configuration management tool for automating software configuration and deployment.
+Chef: An infrastructure automation framework for managing servers and applications.
+Resources: Ansible Documentation, Puppet Documentation, Chef Documentation
+Containerization and Orchestration:
+
+Docker: A platform for developing, shipping, and running applications in containers.
+Kubernetes: An open-source container orchestration platform for automating deployment, scaling, and management of containerized applications.
+Resources: Docker Documentation, Kubernetes Documentation
+Infrastructure as Code (IaC):
+
+Terraform: An IaC tool for provisioning and managing infrastructure resources.
+CloudFormation: An AWS-specific IaC service for defining and provisioning AWS infrastructure.
+Resources: Terraform Documentation, CloudFormation Documentation
+Monitoring and Logging:
+
+Prometheus: An open-source monitoring and alerting toolkit.
+Grafana: A platform for creating interactive and customizable dashboards.
+ELK Stack (Elasticsearch, Logstash, Kibana): A set of tools for collecting, processing, and visualizing logs and metrics.
+Resources: Prometheus Documentation, Grafana Documentation, ELK Stack Documentation
+
 ## Case Studies
 
 Learn from real-world examples of successful DevOps implementations. Dive into case studies from various industries, understanding how organizations achieved improved efficiency and faster delivery.
