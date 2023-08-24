@@ -32,29 +32,34 @@ This section provides an overview of the essential tools and technologies used i
 Version Control:
 
 Git: A distributed version control system used for tracking changes in code and collaborating with others.
-Resources: Git Documentation, Pro Git Book
+Resources: [Git Documentation](https://git-scm.com/doc), [Pro Git Book](https://git-scm.com/book/en/v2)
+
 Continuous Integration (CI) and Continuous Deployment (CD):
 
 Jenkins: An open-source automation server for building, testing, and deploying code.
 Travis CI: A cloud-based CI service that automates testing and deployment.
 CircleCI: Another cloud-based CI/CD platform with a focus on speed and simplicity.
-Resources: Jenkins Documentation, Travis CI Documentation, CircleCI Documentation
+Resources: [Jenkins Documentation](https://www.jenkins.io/doc/), [Travis CI Documentation](https://docs.travis-ci.com/), [CircleCI Documentation](https://circleci.com/docs/)
+
 Configuration Management:
 
 Ansible: An automation tool for managing configuration and provisioning of servers.
 Puppet: A configuration management tool for automating software configuration and deployment.
 Chef: An infrastructure automation framework for managing servers and applications.
-Resources: Ansible Documentation, Puppet Documentation, Chef Documentation
+Resources: [Ansible Documentation](https://docs.ansible.com/), [Puppet Documentation](https://www.puppet.com/docs/puppet/8/puppet_index.html), [Chef Documentation](https://docs.chef.io/)
+
 Containerization and Orchestration:
 
 Docker: A platform for developing, shipping, and running applications in containers.
 Kubernetes: An open-source container orchestration platform for automating deployment, scaling, and management of containerized applications.
 Resources: Docker Documentation, Kubernetes Documentation
+
 Infrastructure as Code (IaC):
 
 Terraform: An IaC tool for provisioning and managing infrastructure resources.
 CloudFormation: An AWS-specific IaC service for defining and provisioning AWS infrastructure.
 Resources: Terraform Documentation, CloudFormation Documentation
+
 Monitoring and Logging:
 
 Prometheus: An open-source monitoring and alerting toolkit.
