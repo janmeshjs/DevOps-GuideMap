@@ -27,45 +27,55 @@ Discover industry-proven best practices for implementing DevOps methodologies ef
 
 ## Tools and Technologies
 
-This section provides an overview of the essential tools and technologies used in DevOps practices. From version control to containerization and automation, find resources to master these technologies.
+Look for essential tools and technologies used in DevOps practices. From version control to containerization and automation, find resources to master these technologies.
 
-Version Control:
+Version Control
 
-Git: A distributed version control system used for tracking changes in code and collaborating with others.
-Resources: [Git Documentation](https://git-scm.com/doc), [Pro Git Book](https://git-scm.com/book/en/v2)
+- **Git**: Distributed version control for tracking changes and collaboration.
+  - **Resources**: [Git Documentation](https://git-scm.com/doc), [Pro Git Book](https://git-scm.com/book/en/v2)
 
-Continuous Integration (CI) and Continuous Deployment (CD):
+CI/CD
 
-Jenkins: An open-source automation server for building, testing, and deploying code.
-Travis CI: A cloud-based CI service that automates testing and deployment.
-CircleCI: Another cloud-based CI/CD platform with a focus on speed and simplicity.
-Resources: [Jenkins Documentation](https://www.jenkins.io/doc/), [Travis CI Documentation](https://docs.travis-ci.com/), [CircleCI Documentation](https://circleci.com/docs/)
+- **Jenkins**: Open-source automation server for building, testing, deploying.
+  - **Resources**: [Jenkins Documentation](https://www.jenkins.io/doc/)
+- **Travis CI**: Cloud-based CI service for testing, deployment.
+  - **Resources**: [Travis CI Documentation](https://docs.travis-ci.com/)
+- **CircleCI**: Cloud-based CI/CD platform for speed, simplicity.
+  - **Resources**: [CircleCI Documentation](https://circleci.com/docs/)
 
-Configuration Management:
+Config Management
 
-Ansible: An automation tool for managing configuration and provisioning of servers.
-Puppet: A configuration management tool for automating software configuration and deployment.
-Chef: An infrastructure automation framework for managing servers and applications.
-Resources: [Ansible Documentation](https://docs.ansible.com/), [Puppet Documentation](https://www.puppet.com/docs/puppet/8/puppet_index.html), [Chef Documentation](https://docs.chef.io/)
+- **Ansible**: Automation tool for managing config, provisioning.
+  - **Resources**: [Ansible Documentation](https://docs.ansible.com/)
+- **Puppet**: Config management tool for automation, deployment.
+  - **Resources**: [Puppet Documentation](https://puppet.com/docs/puppet/latest/puppet_index.html)
+- **Chef**: Infra automation framework for managing servers, apps.
+  - **Resources**: [Chef Documentation](https://docs.chef.io/)
 
-Containerization and Orchestration:
+Containerization
 
-Docker: A platform for developing, shipping, and running applications in containers.
-Kubernetes: An open-source container orchestration platform for automating deployment, scaling, and management of containerized applications.
-Resources: Docker Documentation, Kubernetes Documentation
+- **Docker**: Platform for developing, shipping, running apps in containers.
+  - **Resources**: [Docker Documentation](https://docs.docker.com/)
+- **Kubernetes**: Open-source container orchestration platform.
+  - **Resources**: [Kubernetes Documentation](https://kubernetes.io/docs/)
 
-Infrastructure as Code (IaC):
+Infrastructure as Code
 
-Terraform: An IaC tool for provisioning and managing infrastructure resources.
-CloudFormation: An AWS-specific IaC service for defining and provisioning AWS infrastructure.
-Resources: Terraform Documentation, CloudFormation Documentation
+- **Terraform**: IaC tool for provisioning, managing infrastructure.
+  - **Resources**: [Terraform Documentation](https://www.terraform.io/docs/index.html)
+- **CloudFormation**: AWS-specific IaC service for provisioning.
+  - **Resources**: [CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/index.html)
 
-Monitoring and Logging:
+Monitoring & Logging
 
-Prometheus: An open-source monitoring and alerting toolkit.
-Grafana: A platform for creating interactive and customizable dashboards.
-ELK Stack (Elasticsearch, Logstash, Kibana): A set of tools for collecting, processing, and visualizing logs and metrics.
-Resources: Prometheus Documentation, Grafana Documentation, ELK Stack Documentation
+- **Prometheus**: Open-source monitoring and alerting toolkit.
+  - **Resources**: [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
+- **Grafana**: Platform for creating interactive, customizable dashboards.
+  - **Resources**: [Grafana Documentation](https://grafana.com/docs/)
+- **ELK Stack**: Tools for collecting, processing, visualizing logs, metrics.
+  - **Resources**: [ELK Stack Documentation](https://www.elastic.co/guide/index.html)
+
+
 
 ## Case Studies
 
