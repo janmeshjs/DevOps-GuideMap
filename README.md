@@ -6,12 +6,8 @@ Welcome to the DevOps GuideMap repository! Here, you'll find a collection of ess
 
 - [Introduction to DevOps](#introduction-to-devops)
 - [GuideMap](#GuideMap)
-- [Best Practices](#best-practices)
 - [Tools and Technologies](#tools-and-technologies)
-- [Case Studies](#case-studies)
-- [Further Learning](#further-learning)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction to DevOps
 
@@ -78,6 +74,6 @@ Contribute to the DevOps community by sharing your knowledge. If you have valuab
 
 ---
 
-Your contributions are valuable! If you have any ideas to improve this repository or want to report an issue, please [open an issue]([link-to-issue-tracker](https://github.com/janmeshjs/DevOps-GuideMap/issues)https://github.com/janmeshjs/DevOps-GuideMap/issues).
+Your contributions are valuable! If you have any ideas to improve this repository or want to report an issue, please [open an issue](https://github.com/janmeshjs/DevOps-GuideMap/issues).
 
 Happy learning and exploring the world of DevOps!
